@@ -10,7 +10,7 @@ document.getElementById("inputText").addEventListener("keyup", function(event){
 });
 
 document.getElementById("button").addEventListener("click", function(){
-    // Delay the action by 5 seconds
+    // Delay the action by 2 seconds
     setTimeout(function() {
         const mainSection = document.getElementById("main-section");
         mainSection.style.display = "none";
