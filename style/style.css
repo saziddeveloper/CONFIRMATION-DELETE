@@ -114,7 +114,7 @@ section h3 a:hover {
 @media only screen and (max-width: 720px) {
     /* main */
     body {
-        padding: 0 5px;
+        padding: 0 3px;
     }
     main {
         width: auto;
